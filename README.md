@@ -16,7 +16,7 @@ $ cd Sms-Bomber
 
 $ python3 Sms-Bomber.py
 
-```
-**Channel : T.me/PvGoRg**
-**Pv Telegram Coder Alireza : t.me://Roh_Bijan**                                                
-```
+
+Channel : T.me/PvGoRg
+Pv Telegram Coder Alireza : t.me://Roh_Bijan                                                
+
