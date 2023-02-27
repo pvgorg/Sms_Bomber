@@ -17,6 +17,7 @@ $ cd Sms-Bomber
 $ python3 Sms-Bomber.py
 
 
-Channel : Telegram.me/PvGoRg
+Channel : https://Telegram.me/PvGoRg
+
 Pv Telegram Coder Alireza : https://telegram.me://Roh_Bijan                                                
 
